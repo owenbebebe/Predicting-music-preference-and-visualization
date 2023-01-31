@@ -18,5 +18,6 @@ This project takes the music.csv data and predict a user's music preferece based
 
 <p align="center">
 <br />
-Loading the Database: 
+Decision Tree Visualization using Graphviz dot extension:
+  <br />
   <img src="https://i.imgur.com/f4CHQ78.png" height="80%" width="80%" alt="Music Preference visualization"/>
